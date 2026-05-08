@@ -49,4 +49,4 @@ This project aims to develop a custom AI voice assistant for Android (specifical
 1. **Google Cloud Account:** Required for Vertex AI (Gemini).
 2. **Android Studio:** Installed and updated.
 3. **Samsung A34:** Enabled with Developer Options and USB Debugging.
-4. **API Keys:** Securely stored in a `.env` or `secrets.xml` file (not committed to version control).
+4. **API Keys:** Securely stored in a `.env` or `secrets.xml` file (not committed to version control). 
